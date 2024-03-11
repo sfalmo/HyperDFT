@@ -120,4 +120,4 @@ function main(particles="HR", L=10; do_sims=true, do_profiles=true, do_train=tru
 end
 
 
-main("SW1.2", 10; do_sims=false, do_profiles=true, do_train=true)
+main("HR", 10; do_sims=false, do_profiles=false, do_train=true)
