@@ -3,7 +3,7 @@
 This repository contains code, data sets and models corresponding to the following publication:
 
 **Hyper-density functional theory of soft matter**  
-Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt
+Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt; [arXiv:2403.07845](https://arxiv.org/abs/2403.07845).
 
 ### Setup
 
