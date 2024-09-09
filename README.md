@@ -1,9 +1,12 @@
-# Hyper-density functional theory of soft matter
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13318633.svg)](https://doi.org/10.5281/zenodo.13318633)
+
+
+# Hyperdensity functional theory of soft matter
 
 This repository contains code, data sets and models corresponding to the following publication:
 
-**Hyper-density functional theory of soft matter**  
-Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt; [arXiv:2403.07845](https://arxiv.org/abs/2403.07845).
+**Hyperdensity functional theory of soft matter**  
+Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt, [Phys. Rev. Lett. **133**, 098201](https://doi.org/10.1103/PhysRevLett.133.098201) (2024); [arXiv:2403.07845](https://arxiv.org/abs/2403.07845).
 
 ### Setup
 
