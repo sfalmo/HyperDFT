@@ -8,6 +8,12 @@ This repository contains code, data sets and models corresponding to the followi
 **Hyperdensity functional theory of soft matter**  
 Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt, [Phys. Rev. Lett. **133**, 098201](https://doi.org/10.1103/PhysRevLett.133.098201) (2024); [arXiv:2403.07845](https://arxiv.org/abs/2403.07845).
 
+For an introductory account and detailed derivations, see also:
+
+**Why hyperdensity functionals describe any equilibrium observable**  
+Florian Sammüller and Matthias Schmidt; [arXiv:2410.10534](https://arxiv.org/abs/2410.10534).
+
+
 ### Setup
 
 A recent version of [Julia](https://julialang.org/downloads/) must be installed on your system.
