@@ -11,7 +11,7 @@ Florian Sammüller, Silas Robitschko, Sophie Hermann, and Matthias Schmidt, [Phy
 For an introductory account and detailed derivations, see also:
 
 **Why hyperdensity functionals describe any equilibrium observable**  
-Florian Sammüller and Matthias Schmidt; [arXiv:2410.10534](https://arxiv.org/abs/2410.10534).
+Florian Sammüller and Matthias Schmidt, [J. Phys.: Condens. Matter **37**, 083001](https://doi.org/10.1088/1361-648X/ad98da) (2025); [arXiv:2410.10534](https://arxiv.org/abs/2410.10534).
 
 
 ### Setup
